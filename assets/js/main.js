@@ -1,3 +1,8 @@
+async function fetchProfileData() {
+    const response = await fetch('./data/profile.json')
+    const data = await response.json()
+    return data
+}
 
 function updateProfileInfo(profileData) {
     const photo = document.getElementById('profile.photo')

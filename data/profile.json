@@ -1,6 +1,6 @@
 {
   "name": "Roberto Weber",
-  "photo": "https://avatars.githubusercontent.com/u/151802683?v=4",
+  "photo": "https://avatars.githubusercontent.com/u/151802683?s=400&u=8ca770115e1a893d4318bca380a774755c7e6ddc&v=4",
   "job": "Desenvolver Fullstack",
   "location": "Manaus - AM",
   "phone": "(92) 99530-1507",
@@ -8,28 +8,60 @@
   "skills": {
     "hardSkills": [
       {
-        "name": "Nodejs",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+        "name": "JavaScript",
+        "logo": "./data/imgs/js.png"
       },
       {
-        "name": "Java",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+        "name": "React.js",
+        "logo": "./data/imgs/react.png"
       },
       {
-        "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+        "name": "Node.js",
+        "logo": "./data/imgs/nodejs.png"
       },
       {
-        "name": "React",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+        "name": "HTML",
+        "logo": "./data/imgs/html.png"
       },
       {
-        "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+        "name": "CSS",
+        "logo": "./data/imgs/css.png"
       },
       {
-        "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+        "name": "Next.js",
+        "logo": "./data/imgs/nextjs.png"
+      },
+      {
+        "name": "Git",
+        "logo": "./data/imgs/git.png"
+      },
+      {
+        "name": "Github",
+        "logo": "./data/imgs/github.png"
+      },
+      {
+        "name": "MySQL",
+        "logo": "./data/imgs/mysql.png"
+      },
+      {
+        "name": "PostgreSQL",
+        "logo": "./data/imgs/postgresql.png"
+      },
+      {
+        "name": "MongoDB",
+        "logo": "./data/imgs/mongodb.png"
+      },
+      {
+        "name": "GitLab",
+        "logo": "./data/imgs/gitlab.png"
+      },
+      {
+        "name": "Cypress",
+        "logo": "./data/imgs/cypress.svg"
+      },
+      {
+        "name": "Figma",
+        "logo": "./data/imgs/figma.svg"
       }
     ],
     "softSkills": [
@@ -37,42 +69,43 @@
       "Liderança",
       "Trabalho em equipe",
       "Flexibilidade",
-      "Organização"
+      "Organização",
+      "Resiliência"
     ]
   },
   "languages": [
     "Português BR",
-    "Inglês (intermediário)",
-    "Espanhol (intermediário)",
-    "Italiano (iniciante)"
+    "Inglês Avançado (Leitura e Escrita)",
+    "Inglês Intermediário (Conversação)",
+    "B2 CEFR"
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Criação de uma Pokedex para o curso de JavaScript Developer pela DIO",
+      "url": "https://github.com/RobertoWeberDev/exercicio-pokedex-dio",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Criação de uma página de portfolio para conclusão do curso de JavaScrip Developer pela DIO",
+      "url": "https://github.com/RobertoWeberDev/my-profile",
       "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": "Analista de Suporte / Igreja Batista da Restauração",
+      "period": "01/2022 - 06/2022",
+      "description": "• Gerenciei o parque tecnológico da instituição, com mais de 100 dispositivos, incluindo servidores Windows, impressoras, roteadores, switches e estações de trabalho com Windows e MacOS. • Reduzi o tempo médio de resolução de chamados de Nível 1 e 2 em até 45% ao implementar fluxos padronizados de suporte e reestruturar o Service Desk. • Liderei a gestão de infraestrutura de rede física e lógica, com foco em disponibilidade e continuidade de serviços internos. • Implantei políticas de Segurança da Informação e LGPD, elevando a conformidade institucional em mais de 90%, com base nas normas ISO 27001, 27002 e 27701. • Administrei ambientes em nuvem via Google Workspace (Admin Console, Gmail, Drive, Docs, Sheets, Meet), promovendo integração e automação de processos administrativos. • Desenvolvi e mantive o site institucional e páginas de eventos, aplicando práticas de UX/UI, e utilizando HTML, CSS e JavaScript, melhorando a taxa de inscrições online em 60%. • Elaborei relatórios técnicos e planejamento estratégico de TI que melhoraram a eficiência operacional e governança em 35%, apoiando a expansão tecnológica da instituição. • Treinei e liderei a equipe técnica de suporte, aumentando a autonomia da equipe em 30% e reduzindo o tempo de resolução de chamados em 20%."
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      "name": "Analista de Suporte / Amazonas Tecnologia",
+      "period": "12/2013 - 02/2018",
+      "description": "• Gerenciei equipe técnica e administrativa em serviços de TI, infraestrutura, suporte, atendimento e projetos internos e externos. • Implantei servidores Windows Server (2008, 2012) com Active Directory, DHCP, DNS, GPO e virtualização via Hyper-V, além de servidores FreeBSD (pfSense). • Reduzi falhas de rede e downtime em 40% com a padronização de processos e reestruturação da infraestrutura física e lógica. • Implementei sistema de controle de chamados com SLA definido, aumentando a eficiência no atendimento e direcionamento das demandas em 60%. • Realizei suporte e treinamento em sistemas ERP (comercial, fiscal, estoque, compras, restaurante, financeiro e contábil), atendendo clientes de diversos setores. • Automatizei processos administrativos usando ferramentas de TI, reduzindo erros em 25% e aumentando a produtividade em 15%. • Responsável pela manutenção preventiva e corretiva de estações Windows e Linux, além de equipamentos de rede e periféricos. • Colaborei na análise de negócios, planejamento estratégico e elaboração de relatórios gerenciais de desempenho."
     },
     {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Sócio-Proprietário / RW Tecnologia e Desenvolvimento",
+      "period": "2022 - até o presente",
+      "description": "Foco em desenvolver soluções B2B trabalhando com as seguintes tecnologias: JavaScript | React.js | Node.js | Next.js | SQL | MongoDB | Cypress | Git | Github | Figma."
     }
   ]
 }
